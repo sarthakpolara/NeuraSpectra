@@ -1,1 +1,1 @@
-# NeuroSpectra
+# NeuraSpectra
