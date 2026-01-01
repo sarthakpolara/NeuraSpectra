@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Research | NeuroSpectra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="research.html">Research</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section>
+    <div class="container">
+        <div class="card">
+            <h2>Research & Development</h2>
+            <p>
+                NeuroSpectra’s research focuses on neural signal processing,
+                brain–computer interfaces, and AI-based biomedical analytics.
+            </p>
+            <p>
+                Our work spans:
+            </p>
+            <ul>
+                <li>EEG signal decomposition and spectral analysis</li>
+                <li>Machine learning for neural pattern recognition</li>
+                <li>Real-time embedded AI systems</li>
+                <li>Clinical and applied research collaboration</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 NeuroSpectra. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

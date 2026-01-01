@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NeuroSpectra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="research.html">Research</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section>
+    <div class="container">
+        <div class="card">
+            <h1>NeuroSpectra</h1>
+            <p>
+                NeuroSpectra develops advanced AI-enabled brain–computer interface
+                systems and medical devices focused on high-fidelity neural signal
+                acquisition, analysis, and interpretation.
+            </p>
+            <p>
+                Our mission is to decode neural signals with scientific rigor and
+                transform them into actionable clinical and research insights.
+            </p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 NeuroSpectra. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

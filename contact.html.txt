@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact | NeuroSpectra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="research.html">Research</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section>
+    <div class="container">
+        <div class="card">
+            <h2>Contact Us</h2>
+            <p>
+                For research collaboration, partnerships, or general inquiries:
+            </p>
+            <p>
+                📧 Email: <strong>contact@neurospectra.com</strong><br>
+                🌐 Location: Canada
+            </p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 NeuroSpectra. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

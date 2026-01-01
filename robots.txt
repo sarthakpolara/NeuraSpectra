@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sarthakpolara.github.io/NeuraSpectra/sitemap.xml

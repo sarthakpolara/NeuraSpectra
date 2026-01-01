@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NeuraSpectra",
+    "description": "",
+    "home_page_url": "https://sarthakpolara.github.io/NeuraSpectra",
+    "feed_url": "https://sarthakpolara.github.io/NeuraSpectra/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sarthak Soni"
+    },
+    "items": [
+    ]
+}
