@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>NeuraSpectra</title>
-    <link href="https://sarthakpolara.github.io/NeuraSpectra/feed.xml" rel="self" />
-    <link href="https://sarthakpolara.github.io/NeuraSpectra" />
+    <link href="https://neuraspectra.com/feed.xml" rel="self" />
+    <link href="https://neuraspectra.com" />
     <updated>2026-01-02T12:02:06-04:00</updated>
     <author>
         <name>Sarthak Soni</name>
     </author>
-    <id>https://sarthakpolara.github.io/NeuraSpectra</id>
+    <id>https://neuraspectra.com</id>
 
     <entry>
         <title>Funding &amp; Acknowledgements</title>
         <author>
             <name>Sarthak Soni</name>
         </author>
-        <link href="https://sarthakpolara.github.io/NeuraSpectra/funding-and-acknowledgements-2.html"/>
-        <id>https://sarthakpolara.github.io/NeuraSpectra/funding-and-acknowledgements-2.html</id>
+        <link href="https://neuraspectra.com/funding-and-acknowledgements-2.html"/>
+        <id>https://neuraspectra.com/funding-and-acknowledgements-2.html</id>
 
         <updated>2026-01-02T11:52:05-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <h4><figure class="post__image"><img loading="lazy"  src="https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/Screenshot-2026-01-02-114755.png" alt="" width="1350" height="645" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/responsive/Screenshot-2026-01-02-114755-xs.png 640w ,https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/responsive/Screenshot-2026-01-02-114755-sm.png 768w ,https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/responsive/Screenshot-2026-01-02-114755-md.png 1024w ,https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/responsive/Screenshot-2026-01-02-114755-lg.png 1366w ,https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/responsive/Screenshot-2026-01-02-114755-xl.png 1600w ,https://sarthakpolara.github.io/NeuraSpectra/media/posts/19/responsive/Screenshot-2026-01-02-114755-2xl.png 1920w"></figure></h4>
+                <h4><figure class="post__image"><img loading="lazy"  src="https://neuraspectra.com/media/posts/19/Screenshot-2026-01-02-114755.png" alt="" width="1350" height="645" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://neuraspectra.com/media/posts/19/responsive/Screenshot-2026-01-02-114755-xs.png 640w ,https://neuraspectra.com/media/posts/19/responsive/Screenshot-2026-01-02-114755-sm.png 768w ,https://neuraspectra.com/media/posts/19/responsive/Screenshot-2026-01-02-114755-md.png 1024w ,https://neuraspectra.com/media/posts/19/responsive/Screenshot-2026-01-02-114755-lg.png 1366w ,https://neuraspectra.com/media/posts/19/responsive/Screenshot-2026-01-02-114755-xl.png 1600w ,https://neuraspectra.com/media/posts/19/responsive/Screenshot-2026-01-02-114755-2xl.png 1920w"></figure></h4>
             ]]>
         </content>
     </entry>
